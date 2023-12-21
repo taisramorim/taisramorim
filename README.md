@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on ** a personal project** that I'll be adding here soon.
+- 🔭 I’m currently working on a personal project <strong>Your Pitch</strong>.
 
 - 🌱 I've keen interest in Web Development. So,I'm learning **Ruby on Rails**
 
