@@ -10,13 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -26,10 +19,10 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on a personal project <strong>Your Pitch</strong>.
+- 🔭 I’m currently working on a Mobile Project!
 
-- 🌱 I've keen interest in Web Development. So,I'm learning **Ruby on Rails**
-
+- 🌱 I've keen interest in Mobile and Web Development.
+  
 - 💬 Ask me about **coding & music**
 
 - 📫 Feel free to reach me out **taisramorim@gmail.com**
@@ -43,18 +36,16 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=taisramorim&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
 
 <td width="50%" align="center">
- 
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisramorim&layout=pie"/>
+  
   </td>
 </tr>
 </table>
+<!--- stats (end) -->
+      
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -65,7 +56,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,js,kotlin,linux,flutter,mysql,nodejs,postman,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=firebase,flutter,dart,html,css,js,git,bootstrap,discord,figma,github,kotlin,linux,mysql,nodejs,postman,py,vscode&perline=9" />
   </a>
 </p>
 
