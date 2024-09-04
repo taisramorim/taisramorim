@@ -34,10 +34,11 @@
 </p>
 
 <!-- Profile Visit Count -->
+<!--profile visit count-->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=taisramorim&icon=3&color=6" alt="Profile Visits" />
-  </a>
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 
 <!-- Cool GIF to finish -->
