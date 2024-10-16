@@ -18,7 +18,7 @@
 <h2 align="center">🛠 Technologies I Use 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,flutter,dart,html,css,js,git,bootstrap,discord,figma,github,kotlin,linux,mysql,nodejs,postman,py,vscode&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=firebase,flutter,dart,html,css,js,git,bootstrap,laravel,figma,github,kotlin,linux,mysql,nodejs,postman,py,vscode&perline=9" alt="Tech Stack" />
   </a>
 </p>
 
