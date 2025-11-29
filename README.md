@@ -4,23 +4,23 @@
 </h1>
 
 <!-- Subheading -->
-<h2 align="center">💡 Confusion is just part of Programming 💻</h2>
+<!-- <h2 align="center">💡 Confusion is just part of Programming 💻</h2> -->
 
 <!-- Introduction Section -->
 <p align="center">
   🔭 I’m currently working on a <strong>Mobile Project!</strong><br/>
-  🌱 Passionate about <strong>Mobile</strong> and <strong>Web Development</strong><br/>
-  💬 Ask me about <strong>coding & music</strong><br/>
+  <!-- 🌱 Passionate about <strong>Mobile</strong> and <strong>Web Development</strong><br/>
+  💬 Ask me about <strong>coding & music</strong><br/> -->
   📫 Reach me at: <a href="mailto:taisramorim@gmail.com"><strong>taisramorim@gmail.com</strong></a>
 </p>
 
 <!-- Technologies Section -->
-<h2 align="center">🛠 Technologies I Use 👨🏻‍💻</h2>
+<!-- <h2 align="center">🛠 Technologies I Use 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,flutter,dart,html,css,js,git,bootstrap,laravel,figma,github,kotlin,linux,mysql,nodejs,postman,py,vscode&perline=9" alt="Tech Stack" />
   </a>
-</p>
+</p> -->
 
 <!-- Connect With Me Section -->
 <h2 align="center">🌍 Connect With Me 🤝</h2>
@@ -42,6 +42,6 @@
 </div>
 
 <!-- Cool GIF to finish -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%" alt="Coding GIF" />
-</p>
+</p> -->
